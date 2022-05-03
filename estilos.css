@@ -1,0 +1,61 @@
+h1{
+    color: aliceblue;
+    
+}
+
+h2{
+    color: blueviolet;
+}
+
+.item{
+    background-color: black;
+}
+
+p{
+    color: antiquewhite;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.containers{
+    background-color: aqua;
+}
+
+.box{
+    background-color: blueviolet;
+}
+
+.classic{
+    border: 2px solid coral;
+}
+
+.classic:hover{
+    background-color: chocolate;
+}
+
+.btn-primary{
+    background-color: cadetblue;
+}
+
+.btn-primaryy{
+    background-color: blueviolet;
+    border: 1px solid black;
+
+}
+
+.btn-primaryyy{
+    background-color: aqua;
+}
+
+.offcanvas-title{
+    color: blueviolet;
+}
+
+.offcanvas-body{
+    background-color: aquamarine;
+    color: black;
+}
+
+.offcanvas-body p{
+    color: black;
+}
